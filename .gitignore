@@ -5,6 +5,7 @@
 !*.go
 !go.sum
 !go.mod
+!*.txt
 !*.svg
 !*.jpg
 GraalVM
